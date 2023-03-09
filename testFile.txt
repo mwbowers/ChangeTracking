@@ -3,3 +3,9 @@ New file to edit
 This change was made directly on main.
 
 Another change on main.
+
+Squash 1
+
+Squash 2
+
+Squash 3
