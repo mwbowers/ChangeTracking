@@ -9,3 +9,9 @@ Squash 1
 Squash 2
 
 Squash 3
+
+Merge 1
+
+Merge 2
+
+Merge 3
